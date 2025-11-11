@@ -32,8 +32,7 @@ This simple app fetches and displays random quotes using a structured, maintaina
 
 ## 🧩 Technologies Used
 - **Flutter** 🐦  
-- **Dart** 💙  
-- **HTTP Package** 🌐  
+- **Dart** 💙   
 - **Clean Architecture Pattern** 🧱  
 
 ---
