@@ -42,10 +42,13 @@ This simple app fetches and displays random quotes using a structured, maintaina
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Quote_Fetcher_App.git
+git clone https://github.com/rojinvgeo/Quote_Fetcher_App.git
 ```
 ```bash
-cd Quote_Fetcher_App
+cd quote_fetcher_app
+```
+```bash
+flutter run
 ```
 
 
